@@ -28,5 +28,5 @@ Amplify | API Gateway | AppSync | Aurora | Chatbot | Cloud Watch | CodePipeline 
 マイクロサービス | イベント駆動アーキテクチャ | Clean Architecture | DDD
 
 ## その他
-gRPC | Kubernetes | Docker | CDK | CircleCI | Datadog
+gRPC | Kubernetes | Docker | CDK | CircleCI | Datadog | GitHub | GitLab | Bitbucket
 </details>
