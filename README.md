@@ -6,7 +6,6 @@
 - バックエンドがメインですが、フロントエンドやインフラの業務経験もあります。
 - 現在は FinTech 企業でカード発行・決済プラットフォームの開発に携わっています。
 
-
 ## 技術スタック
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
@@ -22,7 +21,7 @@
 <details>
 <summary>詳細</summary>
 
-#
+##
 
 実務経験のある技術を記載しています。
 
