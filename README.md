@@ -1,11 +1,14 @@
-# 概要
+# 職務経歴書
+
+## 概要
 
 - ソフトウェアエンジニア歴4年です。
 - バックエンドがメインですが、フロントエンドやインフラの業務経験もあります。
 - 現在は FinTech 企業でカード発行・決済プラットフォームの開発に携わっています。
 
 
-# 技術スタック
+<details>
+<summary><h2>技術スタック</h2></summary>
 
 実務経験のある技術を記載しています。
 
@@ -26,3 +29,4 @@ Amplify | API Gateway | AppSync | Aurora | Chatbot | Cloud Watch | CodePipeline 
 
 ## その他
 gRPC | Kubernetes | Docker | CDK | CircleCI | Datadog
+</details>
