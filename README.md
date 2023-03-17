@@ -21,28 +21,21 @@
 
 ## Experience
 
-<div style="display:flex; justify-content:space-between;">
-    <h3>FinTech Company</h3>
-    <div>October 2021 - Present</div>
-</div>
+### FinTech Company - October 2021 - Present
 
 #### Software Engineer
 - Develop microservices for a card issuing platform using Go.
 - Develop a management console using React.js.
 
-<div style="display:flex; justify-content:space-between;">
-    <h3>Edge Computing Company</h3>
-    <div>April 2021 - September 2021</div>
-</div>
+
+### Edge Computing Company - April 2021 - September 2021
 
 #### Software Engineer
 - Lead a development team.
 - Develop web apps using Go and Next.js.
 
-<div style="display:flex; justify-content:space-between;">
-    <h3>IT Consulting Firm</h3>
-    <div>April 2019 - March 2021</div>
-</div>
+
+### IT Consulting Firm - April 2019 - March 2021
 
 #### System Engineer
 - Develop batch processing programs for data analytics infrastructure using Python.
