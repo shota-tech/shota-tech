@@ -3,7 +3,7 @@
 ## Highlights
 - 4 years of working experience that includes software implementation and design.
 - Mainly backend development, but also frontend and infrastructure.
-- Currently working at a FinTech company developing a payment platform.
+- Currently working at a FinTech company developing a card issuing platform.
 
 
 ## Tech Stack
@@ -27,7 +27,7 @@
 </div>
 
 #### Software Engineer
-- Develop microservices for a payment platform using Go.
+- Develop microservices for a card issuing platform using Go.
 - Develop a management console using React.js.
 
 <div style="display:flex; justify-content:space-between;">
