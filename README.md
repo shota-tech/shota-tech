@@ -1,34 +1,11 @@
 # SHOTA
 
-## Highlights
+## Skills
 
-- 4 years of working experience that includes software implementation and design.
-- Mainly backend development, but also frontend and infrastructure.
-- Currently working at a FinTech company developing a card issuing platform.
+[![Icons](https://skillicons.dev/icons?i=go,ts,py,graphql,react,next,aws)](https://skillicons.dev)
 
-## Tech Stack
+## Resources
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,py,graphql,react,next,aws)](https://skillicons.dev)
-
-## Experience
-
-### FinTech Company - October 2021 - Present
-
-#### Software Engineer
-
-- Develop microservices for a card issuing platform using Go.
-- Develop a management console using React.js.
-
-### Edge Computing Company - April 2021 - September 2021
-
-#### Software Engineer
-
-- Lead a development team.
-- Develop web apps using Go and Next.js.
-
-### IT Consulting Firm - April 2019 - March 2021
-
-#### System Engineer
-
-- Develop batch processing programs for data analytics infrastructure using Python.
-- Develop a web app for data maintenance using Django.
+[![CI/CD に PGO を組み込んだ話](https://files.speakerdeck.com/presentations/d69e1ab373484cdc84de8f9806a8db96/slide_0.jpg)](https://speakerdeck.com/shota_tech/cd)
+[![プロダクト間連携を支える非同期通信基盤](https://files.speakerdeck.com/presentations/be79b1debccf454eb5232aacdc61a33a/slide_0.jpg)](https://speakerdeck.com/shota_tech/purodakutojian-lian-xi-wozhi-erufei-tong-qi-tong-xin-ji-pan)
+[![MySQL の UPDATE で IN 句の要素が多すぎてデッドロックした話](https://cdn-ak.f.st-hatena.com/images/fotolife/s/shota_tech/20241207/20241207111358.png)](https://tech.layerx.co.jp/entry/2024/12/07/105714)
