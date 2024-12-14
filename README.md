@@ -8,8 +8,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,py,react,next,aws)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=go,ts,py,graphql,react,next,aws)](https://skillicons.dev)
 
 ## Experience
 
