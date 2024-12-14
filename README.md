@@ -11,11 +11,13 @@
 </a>
 
 <br/>
+<br/>
 
 <a href="https://speakerdeck.com/shota_tech/purodakutojian-lian-xi-wozhi-erufei-tong-qi-tong-xin-ji-pan">
   <img alt="プロダクト間連携を支える非同期通信基盤" src="https://files.speakerdeck.com/presentations/be79b1debccf454eb5232aacdc61a33a/slide_0.jpg" width="400px"/>
 </a>
 
+<br/>
 <br/>
 
 <a href="https://tech.layerx.co.jp/entry/2024/12/07/105714">
